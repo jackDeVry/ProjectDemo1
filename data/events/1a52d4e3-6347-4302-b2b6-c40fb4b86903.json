@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "112553bf-3667-418e-97a2-d7765b4c4044": {
+      "label": "Megáfono Example",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://dn710602.ca.archive.org/0/items/Megafono_-_Demandas_a_periodistas_ataques_a_la_libertad_de_expresion_-_14_09_2016/Megafono_-_Demandas_a_periodistas_ataques_a_la_libertad_de_expresion_-_14_09_2016.HD.mp4",
+      "duration": 1800,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Megáfono Example",
+  "av_file_order": [
+    "112553bf-3667-418e-97a2-d7765b4c4044"
+  ],
+  "created_at": "2026-01-20T19:31:51.484Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2026-01-20T19:31:51.484Z",
+  "updated_by": "jackDeVry"
+}
