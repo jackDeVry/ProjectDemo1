@@ -1,5 +1,736 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"¿Qué labor realiza un cine móvil?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        }
+      ],
+      "uuid": "e1d16d76-b224-4549-9e23-d75f3f5ad0bb"
+    },
+    {
+      "start_time": 8,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Bueno la unidad mobile desarolla la función de llevar películas a los poblados campesinos en ello contamos con un camión que tiene equipo de cine dentro como un proyector de cine pequeño de 16 mm con su amplificador bocina y regulador y también contamos con una planta de 2 kilos que es la que abastece de energía electrica. \"Adentro tiene la cama que para nosotros dormir y probamos la posición lo que damos el mismo lugar\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Set Up"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": ""
+        }
+      ],
+      "uuid": "9869943d-674e-40b8-b56b-fa6a6bf0469a"
+    },
+    {
+      "start_time": 8,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Within the opening scene, we are told that the traveling filmmakers have the goal of bringing films to farmers in remote areas. Within their equipment, they have a 16 mm camera with a speaker. For energy, they have a 2 Kg portable energy station. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Commentary"
+        }
+      ],
+      "uuid": "67bafd2b-1be3-47c9-a077-0739748f3dd7"
+    },
+    {
+      "start_time": 38,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Por el día trabajamos en las escuelas y por la noche proyectamos en los lugares señalados en poblados granjas o asociaciones campesinas. Prácticamente nuestro camión es nuestro centro de trabajo y nuestra casa a la vez. Nos pasamos 26 días sobre el, día y noche trabajamos.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Working conditions"
+        }
+      ],
+      "uuid": "89ab1498-3e6e-436f-91d1-215440271ea1"
+    },
+    {
+      "start_time": 38,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The traveling cinema during the day work at the schools and by night they screen the films in farm villages or in farmer associations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Commentary"
+        }
+      ],
+      "uuid": "7a7df0b6-2d49-440b-a959-32e22888147d"
+    },
+    {
+      "start_time": 57,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"¿Entonces conocen algún lugar acá donde todavía no hayan visto cine?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Filmmaker intervention"
+        }
+      ],
+      "uuid": "0d179a1d-c162-4462-bb54-739cb82971d7"
+    },
+    {
+      "start_time": 57,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First intervention of the documentary maker within the story. This is indicating to us that the documentary where the director is active and dialoguing with the characters"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Commentary"
+        }
+      ],
+      "uuid": "5c8f3022-ad80-4a9f-8038-c26c1d26d83b"
+    },
+    {
+      "start_time": 63,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Sí, yo conozco un lugar ahí que por estado por un lugar es tan malo que no se ha podido entrar el mundo que está en el macizo montañoso de Guantánamo y Baracoa y no se ha podido entrar de verdad y no he podido llegar con el camión\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        }
+      ],
+      "uuid": "b268457a-78dd-415f-9c4d-d41c775f7afa"
+    },
+    {
+      "start_time": 63,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The traveling cinema answers that there are places which have yet to see a film, but this is because of lack of roads and hard mountaness terrain."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Commentary"
+        }
+      ],
+      "uuid": "aa37362f-6a4b-4810-a904-a0e76d2ef8fc"
+    },
+    {
+      "start_time": 74,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"El Instituto Cubano Del Arte e Industria Cinematográficos Presenta un documental de Octavio Cortazar Por Primera Vez\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter Credits"
+        }
+      ],
+      "uuid": "bd5d215d-aafb-445d-82ae-cb3998dc543b"
+    },
+    {
+      "start_time": 74,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This film was funded and presented by the ICAIC, the main and only film organization in Cuba. The ICAIC was founded in 1960 by Fidel Castro and was designed to encourage and support filmmakers striving to create a national identity through film."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "National Identity"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Commentary"
+        }
+      ],
+      "uuid": "d647681b-e3b8-4b3d-9dc7-166a0d6b3782"
+    },
+    {
+      "start_time": 74,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene where we are introduced to the people involved in the project takes us in the moving van that is approaching a remote village bellow the mountains. The decision to use a moving camera alongside the music, create dynamism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Commentary"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film notes"
+        }
+      ],
+      "uuid": "cdb3cf0e-8ec2-4f10-a87d-d1942a98a7dc"
+    },
+    {
+      "start_time": 74,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The musicduring the credits is the musical genre of \"Surf Music\", popular in Southern California in the 1950's and 1960's."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Music"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Commentary"
+        }
+      ],
+      "uuid": "e6ff577e-c000-4b73-b27b-4846cb687324"
+    },
+    {
+      "start_time": 120,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A fast montage introducing us to the people of this village. Showcasing their clothing, the facial expressions, their wildlife."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Commentary"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Film notes"
+        }
+      ],
+      "uuid": "a499ba2b-4e83-4712-bcc5-271ef67eb8d5"
+    },
+    {
+      "start_time": 135,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"usted vieron llegar el carro del cinemóvil ese camión sin demora va a venir aquí en otras ocasiones para proyectar películas por la mañana en la escuela y por la noche al campesinado de esta zona. Entonces hoy se va a pasar una película esta noche para los compañeros puedan ver esa película ¿verdad?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        }
+      ],
+      "uuid": "b9505495-0f6f-43e1-81a4-1ed97c5fc948"
+    },
+    {
+      "start_time": 165,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo quiero que ustedes me digan si ahora han visto han visto una película\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Filmmaker intervention"
+        }
+      ],
+      "uuid": "1b698319-012b-450f-9530-ca45cc8098a6"
+    },
+    {
+      "start_time": 169,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scene places the director speaking with a group of farmer kids and asking them who has seen a film before, and they all state they've never seen one, and are curious of what it is. The main girl states that she thinks Ovido has not seen a film."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Commentary"
+        }
+      ],
+      "uuid": "ae370d39-a5c2-4c35-991c-a011da102073"
+    },
+    {
+      "start_time": 203,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo creo que la niña se equivocó porque yo si he visto cine, he visto cine en Baracoa, he visto cine en Guantánamo. Ahora lo que sí les puedo decir que por toda esta parte hay cantidad de campesinos que no han visto cine.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ovido"
+        }
+      ],
+      "uuid": "d9e013ce-2c03-4513-ae01-194f20e4f3be"
+    },
+    {
+      "start_time": 203,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are presented with Ovido, who has been commented as someone who has not seen a film before. But, he states to the camera that he has seen films in the Eastern regions of Cuba such as Baracoa and Guantánamo. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ovido (Character)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Commentary"
+        }
+      ],
+      "uuid": "45078b39-c6ab-4e9f-9da8-e76c0a13af09"
+    },
+    {
+      "start_time": 203,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The shot places Ovido in the Foreground of the shot, with a vast mountain range in the background. The shot then proceeds to rotate to the right, indicating the large, unpopulated area to the distant eye. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Notes"
+        }
+      ],
+      "uuid": "3542d3c4-6502-4ca9-b4d0-3b76c42bddf0"
+    },
+    {
+      "start_time": 229,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Bueno tengo que tener como 15 años desde que vivo por aquí, yo era de Jauco.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family 1"
+        }
+      ],
+      "uuid": "6240c0a4-263e-4372-acf5-406fcd28970d"
+    },
+    {
+      "start_time": 237,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Tenemos como, ¿cuantos años podemos tener? 16 años."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family 2"
+        }
+      ],
+      "uuid": "d0e166ee-7622-4be2-abd2-8847d9c10c80"
+    },
+    {
+      "start_time": 243,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo no tengo dirección de ninguna aquí, yo no dudo que salgo a ningún lado. Yo aquí no salgo aquí a ningún lado. Aquí, uno no se puede salir a pasear ni nada.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family 3"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Isolation"
+        }
+      ],
+      "uuid": "100bc887-eb55-4329-be4e-a1bd0d8df2c7"
+    },
+    {
+      "start_time": 258,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo tengo 12 niños y nietos. Sí, nietos tengo unos cuantos. Ah! Tengo tantos nietos que dios sabe los nietos que yo tengo. Lo que tengo es por parte de Baracoa tengo y tengo aquí\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family 2"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family Structure"
+        }
+      ],
+      "uuid": "8ce41f4c-a23e-4a62-a942-aca0c06056f0"
+    },
+    {
+      "start_time": 273,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La Madre: No, yo no he visto película porque cuando estaba el govierno de antes. Bueno, no podiamos ir a ver, ni oirlo o no venian aquí. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family 2"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Previous Revolution Cuba"
+        }
+      ],
+      "uuid": "b5957c21-5fd9-4b61-a5bd-d9ee4b7e55d0"
+    },
+    {
+      "start_time": 285,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Y ¿Qué usted considera que puedan ser las películas?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Filmmaker intervention"
+        }
+      ],
+      "uuid": "cba98fd0-dc8c-41f3-bfa0-ed0dbbe29fe0"
+    },
+    {
+      "start_time": 287,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Pueden ser algunas cosas de importancia cuando usted está tan interesado a ella, tiene que ser alguna cosa muy bonita y de importancia. También puede ser que bueno, sea un pueblo muy grande que tenga muchas cosas de importancia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family 2"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": ""
+        }
+      ],
+      "uuid": "53b770cf-dd18-4412-b205-0d7b0a3788c9"
+    },
+    {
+      "start_time": 300,
+      "end_time": 318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La película es muchas cosas que se ven cuando hacen, dan el cine hay en el cine. Se ven mas hace, muchachas bonitas, niñas bonitas, se ven matrimonions, se ven todo lo que uno, caballería, guerra y todo. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family 3"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "War"
+        }
+      ],
+      "uuid": "a8843bd2-49dd-4b2d-aad8-09f60f13f76a"
+    },
+    {
+      "start_time": 318,
+      "end_time": 349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo no lo he visto, pero lo considero que sea una fiesta o un baile. Pero no lo he visto, pero yo quiero verlo para que nadie tenga que decirme."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcript",
+          "category": "Transcript"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family 1"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": ""
+        }
+      ],
+      "uuid": "b9a124b4-22d1-446a-ac1e-932c3cb6020d"
+    },
+    {
+      "start_time": 229,
+      "end_time": 349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The documentary interviews 3 separate families and inquiries about \"What is a film?\". Each of the ladies from the families give a variety of answers. From guessing it is a big party or a dance, to it must be important since you (the filmmaker) really care about it, and something which showcases pretty women, pretty girls, weddings, war, horse riding, etc."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Notes"
+        }
+      ],
+      "uuid": "4422aefe-a523-476a-aa02-a221fe1dac9a"
+    }
+  ],
   "set": "Default",
   "event_id": "1a52d4e3-6347-4302-b2b6-c40fb4b86903",
   "source_id": "112553bf-3667-418e-97a2-d7765b4c4044"
